@@ -1,2 +1,3 @@
 # hello-world
-try a new repository
+
+Hello, I'm learning how to make change.
